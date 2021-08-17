@@ -5,7 +5,7 @@ Aplicación web creada con Python y el framework Flask.
 <br/><br/>
 ![](./preview2.JPG)
 
-# Por si deseas contactarme :
+# 🌍 Por si deseas contactarme 👨‍💻 :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar_Garcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://pe.linkedin.com/in/uskokrum2010)
 [![YouTube](https://img.shields.io/badge/YouTube-UskoKruM2010-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/uskokrum2010)
